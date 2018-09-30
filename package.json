@@ -1,0 +1,19 @@
+{
+  "name": "littledb",
+  "version": "1.0.0",
+  "description": "small json data store",
+  "start": "index.js",
+  "scripts": {
+    "start": "node http_server.js"
+  },
+  "keywords": [
+    "data",
+    "store"
+  ],
+  "author": "abelsan <abel@mit.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "lowdb": "^1.0.0"
+  }
+}
